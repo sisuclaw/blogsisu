@@ -162,14 +162,13 @@ main {
 }
 
 .post-title a {
-    color: var(--accent-blue);
+    color: var(--text-primary);
     text-decoration: none;
     transition: color 0.3s ease;
 }
 
 .post-title a:hover {
     color: var(--accent-blue);
-    text-decoration: underline;
 }
 
 .post-excerpt {
